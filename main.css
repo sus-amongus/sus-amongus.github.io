@@ -1,0 +1,12 @@
+body{
+	background:#B6F;
+}
+a{
+	color:#000;
+}
+p, a , h1, h3, ol, ul{
+	padding:10px;
+}
+img{
+	padding-right: 10px;
+}
