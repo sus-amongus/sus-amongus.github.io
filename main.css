@@ -1,7 +1,7 @@
 body{
 	background:#B6F;
 }
-a{
+a, hr{
 	color:#000;
 }
 p, a , h1, h3, ol, ul{
@@ -9,4 +9,10 @@ p, a , h1, h3, ol, ul{
 }
 img{
 	padding-right: 10px;
+}
+
+.clickPic{
+	height: 300px;
+	width: 240px;
+	padding: 0px, 10px, 0px, 10px;
 }
